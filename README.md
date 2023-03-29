@@ -2,7 +2,7 @@
 [투빅스 18기&19기 심화 세미나] CS224N study 및 NLP 논문 리뷰
 
 ## 👩🏼‍💻 세미나 진행
-- 기간 : 2023년 3월 29일 ~ 2023년 5월 24일 
+- 기간 : 2023년 3월 29일 ~ 2023년 5월 31일 
 
     (중간고사 휴식 기간 : 2023년 4월 19일 ~ 2023년 5월 3일)
 
@@ -31,10 +31,18 @@
 
 8. 세미나 관련한 세부 규칙은 [노션 페이지](https://luminous-yard-33a.notion.site/seminar-RULE-6c171917ba43499ca7da15fd68651238, "Notion")에 정리되어 있습니다.
 
+----------
 
 ## 👨🏻‍🏫 CS224N 2021 Winter Review
 
 [**Stanford CS224N: Natural Language Processing with Deep Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ, "Youtube")
+
+- 2023년 4월 5일 ~ 2023년 5월 17일 (4주간 진행)
+
+    -  2023년 4월 12일 : 자율 논문 리뷰 (최경주)
+   
+    - 2023년 5월 17일 : 자율 논문 리뷰 (권유진)
+
 
 ### Schedule
 
@@ -48,7 +56,9 @@
 |2023.5.10|[Lecture 14. T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14, "Youtube")|김윤서|
 |2023.5.17|[Lecture 15. Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15, "Youtube")|국주현|
 
+## 👩🏻‍🏫 NLP Paper Review
 
+- 2023년 5월 24일 ~ 2023년 5월 31일 (2주간 진행)
 
 
 
