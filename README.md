@@ -56,7 +56,7 @@
 |2023.4.5|[Lecture 9. Self-Attention and Transformers](https://www.youtube.com/watch?v=ptuGllU5SQQ&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=9&t=64s, "Youtube")|이선민|
 |2023.4.12|[Lecture 10. Transformers and Pretraining](https://www.youtube.com/watch?v=j9AcEI98C0o&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=10, "Youtube")|임승섭|
 |2023.4.12|[Lecture 11. Question Answering](https://www.youtube.com/watch?v=NcqfHa0_YmU&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=11, "Youtube")|이영아|
-|2023.5.10|[Lecture 12. Natural Language Generation](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12, "Youtube")|윤휘세|
+|2023.5.10|[Lecture 12. Natural Language Generation](https://www.youtube.com/watch?v=1uMo8olr5ng&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=12, "Youtube")|윤세휘|
 |2023.5.10|[Lecture 14. T5 and Large Language Models](https://www.youtube.com/watch?v=iHWkLvoSpTg&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=14, "Youtube")|김윤서|
 |2023.5.17|[Lecture 15. Add Knowledge to Language Models](https://www.youtube.com/watch?v=y68RJVfGoto&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&index=15, "Youtube")|국주현|
 
