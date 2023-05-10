@@ -45,7 +45,8 @@
 
     -  2023년 4월 12일 : 자율 논문 리뷰 (최경주) [Training Language Models with Language Feedback](https://arxiv.org/abs/2204.14146, "Paper")
    
-    - 2023년 5월 17일 : 자율 논문 리뷰 (권유진)
+    - 2023년 5월 17일 : 자율 논문 리뷰 (권유진) [HuggingGPT: Solving AI Tasks with ChatGPT and
+its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580v2.pdf, "Paper")
 
 
 ### Schedule
