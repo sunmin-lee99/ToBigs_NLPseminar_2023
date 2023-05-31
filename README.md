@@ -35,6 +35,8 @@
 
 8. 세미나 관련한 세부 규칙은 [노션 페이지](https://luminous-yard-33a.notion.site/seminar-RULE-6c171917ba43499ca7da15fd68651238, "Notion")에 정리되어 있습니다.
 
+9. 최종 논문 리뷰 진행 시 **코드 스크래치를 포함**하여 완성도 높은 논문 리뷰를 발표한다.
+
 ----------
 
 ## 👨🏻‍🏫 CS224N 2021 Winter Review
@@ -64,7 +66,10 @@ its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580v2.pdf, "Paper")
 ## 👩🏻‍🏫 NLP Paper Review
 
 - 2023년 5월 24일 ~ 2023년 5월 31일 (2주간 진행)
-
-
+|Team|Paper|Reviewer|
+|---------|---|---|
+|Flamingo|[MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/abs/2305.04790v1, "Paper")|이선민, 임승섭, 권유진|
+|a|[AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.12995v1, "Paper")|한진모, 윤세휘, 최경주|
+|b|[Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/abs/1904.02342, "Paper")|이영아, 국주현, 김윤서|
 
 
