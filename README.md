@@ -66,6 +66,7 @@ its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580v2.pdf, "Paper")
 ## 👩🏻‍🏫 NLP Paper Review
 
 - 2023년 5월 24일 ~ 2023년 5월 31일 (2주간 진행)
+
 |Team|Paper|Reviewer|
 |---------|---|---|
 |Flamingo|[MultiModal-GPT: A Vision and Language Model for Dialogue with Humans](https://arxiv.org/abs/2305.04790v1, "Paper")|이선민, 임승섭, 권유진|
